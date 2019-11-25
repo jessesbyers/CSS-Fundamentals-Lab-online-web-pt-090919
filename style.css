@@ -34,7 +34,7 @@ section p {
 
 div#details {
     display: block;
-    display: table-row;
+    float: left;
 
 
 }
