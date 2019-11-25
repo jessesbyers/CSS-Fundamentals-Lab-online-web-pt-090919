@@ -32,7 +32,12 @@ figcaption {
     padding-left: 200px;
 }
 
-#details h3 + p {
+#details {
+  background-color: red; 
+}
+
+
+h3 + p {
     display: block;
     float: left;
 }
