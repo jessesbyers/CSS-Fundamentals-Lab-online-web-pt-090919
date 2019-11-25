@@ -41,7 +41,7 @@ figcaption {
 
 div {
   display: block;
-
+  align-items: baseline;
 }
 
 
