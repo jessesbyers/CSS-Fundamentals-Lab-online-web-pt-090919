@@ -36,11 +36,14 @@ figcaption {
   display: flex;
   float: inherit;
   background-color: red;
+}
+
+#details > div {
+  text-align: center;
 
 }
 
-/*text-align: center;
-width: 25%;*/
+/*width: 25%;*/
 
 
 
