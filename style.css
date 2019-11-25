@@ -32,7 +32,7 @@ figcaption {
     padding-left: 200px;
 }
 
-div#details {
+#details > div {
   background-color: red;
   display: block;
   float: left;
