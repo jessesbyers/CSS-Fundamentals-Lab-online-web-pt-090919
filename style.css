@@ -34,7 +34,7 @@ figcaption {
 
 #details {
   display: flex;
-  float: left;
+  float: inherit;
   background-color: red;
   text-align: center;
   width: 100%;
