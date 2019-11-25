@@ -37,12 +37,10 @@ figcaption {
   float: left;
   text-align: center;
   width: 100%;
-}
-
-div {
   display: block;
   align-items: baseline;
 }
+
 
 
 
