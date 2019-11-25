@@ -34,13 +34,16 @@ figcaption {
 
 #details > div {
   background-color: red;
-  display: block;
   float: left;
   text-align: center;
   width: 100%;
+}
 
+div {
+  display: block;
 
 }
+
 
 
 /*h3 + p {
