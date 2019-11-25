@@ -30,6 +30,8 @@ section p {
     width: 800px;
     text-align: center;
     padding-left: 200px;
+}
 
-
+details {
+  dsiplay: block
 }
