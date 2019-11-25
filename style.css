@@ -34,5 +34,9 @@ section p {
 
 details {
   dsiplay: block
+}
+
+div#details {
   float: left
+
 }
