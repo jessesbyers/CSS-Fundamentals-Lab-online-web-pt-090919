@@ -32,7 +32,7 @@ figcaption {
     padding-left: 200px;
 }
 
-section#details h3 + p {
+#details h3 + p {
     display: block;
     float: left;
 }
