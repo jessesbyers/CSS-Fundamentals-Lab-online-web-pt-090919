@@ -36,7 +36,7 @@ details {
   dsiplay: block
 }
 
-div#details {
+div.details {
   float: left
 
 }
