@@ -32,7 +32,7 @@ p {
     padding-left: 200px;
 }
 
-div {
+h3 + p {
     display: block;
     float: left;
 
