@@ -14,7 +14,7 @@ img {
     margin-right: auto;
   }
 
-a {
+header < a {
     text-align: center;
     padding-left: 10px;
     padding-right: 10px;
@@ -35,6 +35,4 @@ section#featured-property > p {
 section#details h3 + p {
     display: block;
     float: left;
-
-
 }
