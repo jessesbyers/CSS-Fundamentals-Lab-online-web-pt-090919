@@ -32,7 +32,7 @@ figcaption {
     padding-left: 200px;
 }
 
-#details > div {
+#details {
   display: flex;
     float: left;
 
