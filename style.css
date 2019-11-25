@@ -37,8 +37,7 @@ figcaption {
   float: left;
   text-align: center;
   width: 100%;
-  display: block;
-  align-items: stretch;
+  display: table-footer-group;
 }
 
 
